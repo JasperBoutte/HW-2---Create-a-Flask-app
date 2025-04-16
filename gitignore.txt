@@ -1,0 +1,10 @@
+It's a pain to upload a .gitignore so this is what mine looks like:
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+instance/
+.webassets-cache/
+
+.vscode/ 
